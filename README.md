@@ -1,0 +1,1 @@
+# some-puppet-manifests-for-infra
