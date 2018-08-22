@@ -4,8 +4,8 @@ class dte::usr_mgmt{
   		 password => '$1$8JTmsMFS$9ktSuauNhX0rZij1TIwQt/',
 	}
 
-	file { 'ade':
-                path => "/ade",
+	file { 'abc':
+                path => "/abc",
                 ensure => "directory",
                 mode => 777,
                 owner => oracle,
