@@ -1,4 +1,4 @@
-class dte::pkg_inst {
+class edt::pkg_inst {
    # file { "/etc/profile.d/export_proxy.sh":
 #		content => "export http_proxy=www-proxy.us.org.com:80 \n export https_proxy=www-proxy.us.org.com:80",
 #	}
